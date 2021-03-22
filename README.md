@@ -1,5 +1,6 @@
-# capbot-siic
-Repository to hold code for the [cap-bot](https://github.com/aryankargwal/cap-bot) varient that is being presented at the SIIC Defence Hackathon 2021.
+# CapBot-SIIC
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)<br>
+Repository to hold code for the [cap-bot](https://github.com/aryankargwal/cap-bot) variant that is being presented at the SIIC Defence Hackathon 2021.
 <br>
 
 ## Problem Inspiration<br>
