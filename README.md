@@ -111,7 +111,7 @@ Indira Dutta
 Kunal Mundada
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQE_ev0fCPT0Uw/profile-displayphoto-shrink_200_200/0/1581639518725?e=1621468800&v=beta&t=ievx9n9yClEOkaW6nQw5CT8AhE6bWVgWh-We5nK9_vY"  height="120" alt="Rusali Saha">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQE_ev0fCPT0Uw/profile-displayphoto-shrink_200_200/0/1581639518725?e=1621468800&v=beta&t=ievx9n9yClEOkaW6nQw5CT8AhE6bWVgWh-We5nK9_vY"  height="120" alt="Kunal Mundada">
 </p>
 <p align="center">
 <a href = "https://github.com/AlKun25"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -126,7 +126,7 @@ Kunal Mundada
 Srijarko Roy
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQFCctkhnahzoA/profile-displayphoto-shrink_200_200/0/1592055341403?e=1621468800&v=beta&t=NkSQlaxskFl2fO-34vIp4D45vI7mOWwyWyjiiuIu73A"  height="120" alt="person">
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQFCctkhnahzoA/profile-displayphoto-shrink_200_200/0/1592055341403?e=1621468800&v=beta&t=NkSQlaxskFl2fO-34vIp4D45vI7mOWwyWyjiiuIu73A"  height="120" alt="Srijarko Roy">
 </p>
 <p align="center">
 <a href = "https://github.com/srijarkoroy"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
